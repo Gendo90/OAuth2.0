@@ -41,6 +41,9 @@ h3 {
  	color: #0093B9;
  	line-height: 17px;
  }
+ form.lined_up {
+	 display: inline-block;
+ }
 .padding-top {
 	padding-top: 30px;
 }

@@ -57,6 +57,7 @@ class MenuItem(Base):
            'id'         : self.id,
            'price'         : self.price,
            'course'         : self.course,
+           'restaurant_id' : self.restaurant_id,
            'user_id'     :  self.user_id
        }
 
